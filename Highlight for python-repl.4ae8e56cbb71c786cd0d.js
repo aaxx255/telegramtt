@@ -1,0 +1,2 @@
+(self.webpackChunktelegram_t=self.webpackChunktelegram_t||[]).push([["Highlight for python-repl"],{3722:e=>{e.exports=function(e){return{aliases:["pycon"],contains:[{className:"meta.prompt",starts:{end:/ |$/,starts:{end:"$",subLanguage:"python"}},variants:[{begin:/^>>>(?=[ ]|$)/},{begin:/^\.\.\.(?=[ ]|$)/}]}]}}}}]);
+//# sourceMappingURL=Highlight for python-repl.4ae8e56cbb71c786cd0d.js.map

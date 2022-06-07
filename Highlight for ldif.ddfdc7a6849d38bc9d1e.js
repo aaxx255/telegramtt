@@ -1,0 +1,2 @@
+(self.webpackChunktelegram_t=self.webpackChunktelegram_t||[]).push([["Highlight for ldif"],{57604:e=>{e.exports=function(e){return{name:"LDIF",contains:[{className:"attribute",match:"^dn(?=:)",relevance:10},{className:"attribute",match:"^\\w+(?=:)"},{className:"literal",match:"^-"},e.HASH_COMMENT_MODE]}}}}]);
+//# sourceMappingURL=Highlight for ldif.ddfdc7a6849d38bc9d1e.js.map

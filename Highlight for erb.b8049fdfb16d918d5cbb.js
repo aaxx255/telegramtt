@@ -1,0 +1,2 @@
+(self.webpackChunktelegram_t=self.webpackChunktelegram_t||[]).push([["Highlight for erb"],{32151:e=>{e.exports=function(e){return{name:"ERB",subLanguage:"xml",contains:[e.COMMENT("<%#","%>"),{begin:"<%[%=-]?",end:"[%-]?%>",subLanguage:"ruby",excludeBegin:!0,excludeEnd:!0}]}}}}]);
+//# sourceMappingURL=Highlight for erb.b8049fdfb16d918d5cbb.js.map

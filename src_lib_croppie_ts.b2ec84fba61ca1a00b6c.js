@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktelegram_t=self.webpackChunktelegram_t||[]).push([["src_lib_croppie_ts"],{23472:(e,t,s)=>{s.r(t),s.d(t,{default:()=>a});var r=s(35099);const a=s.n(r)()}}]);
+//# sourceMappingURL=src_lib_croppie_ts.b2ec84fba61ca1a00b6c.js.map

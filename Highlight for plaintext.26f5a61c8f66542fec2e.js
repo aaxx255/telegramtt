@@ -1,0 +1,2 @@
+(self.webpackChunktelegram_t=self.webpackChunktelegram_t||[]).push([["Highlight for plaintext"],{62437:t=>{t.exports=function(t){return{name:"Plain text",aliases:["text","txt"],disableAutodetect:!0}}}}]);
+//# sourceMappingURL=Highlight for plaintext.26f5a61c8f66542fec2e.js.map

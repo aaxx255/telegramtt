@@ -1,0 +1,2 @@
+(self.webpackChunktelegram_t=self.webpackChunktelegram_t||[]).push([["Highlight for julia-repl"],{25850:e=>{e.exports=function(e){return{name:"Julia REPL",contains:[{className:"meta.prompt",begin:/^julia>/,relevance:10,starts:{end:/^(?![ ]{6})/,subLanguage:"julia"}}],aliases:["jldoctest"]}}}}]);
+//# sourceMappingURL=Highlight for julia-repl.6677f77638ba4aa1cc69.js.map

@@ -1,0 +1,2 @@
+(self.webpackChunktelegram_t=self.webpackChunktelegram_t||[]).push([["Highlight for json"],{40014:e=>{e.exports=function(e){const n={beginKeywords:["true","false","null"].join(" ")};return{name:"JSON",contains:[{className:"attr",begin:/"(\\.|[^\\"\r\n])*"(?=\s*:)/,relevance:1.01},{match:/[{}[\],:]/,className:"punctuation",relevance:0},e.QUOTE_STRING_MODE,n,e.C_NUMBER_MODE,e.C_LINE_COMMENT_MODE,e.C_BLOCK_COMMENT_MODE],illegal:"\\S"}}}}]);
+//# sourceMappingURL=Highlight for json.1b8f2f64fc90997230f1.js.map
